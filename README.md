@@ -1,12 +1,12 @@
 👋 Hi there, I’m Kamil Barczyk
 
-🥷🏾 I am a programmer with a Master's degree in Computer Science, specializing in **frontend development**.
-👨🏽‍💻 Currently working full-time as an **Frontend Developer** at Eviden.
-🌱 In my free time, I am focused on expanding and refining my portfolio.
+🥷🏾 I am a programmer with a Master's degree in Computer Science, specializing in **frontend development**.  
+👨🏽‍💻 Currently working full-time as an **Frontend Developer** at Eviden.  
+🌱 In my free time, I am focused on expanding and refining my portfolio.  
 
 🔧 **Core technologies:**
 - ⚡ Angular
-- 🚀 Vue 
+- 🚀 Vue
 - 💻 JavaScript & TypeScript
 - 🎨 HTML & SCSS lover
 
