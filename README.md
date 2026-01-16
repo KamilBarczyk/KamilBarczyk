@@ -6,13 +6,13 @@
 **Focus:** Expanding my expertise in **React** and modern frontend workflows.<br>
 **Mindset:** Bridging the gap between frameworks with clean, maintainable code and an engineering approach.<br>
 
-🔧 **Core technologies:**
+**Core technologies:**
 - ⚛️ React (Proficient, active side projects)
 - 🚀 Angular (Commercial experience)
 - 🟢 Vue.js (Commercial experience)
 - 💻 JavaScript & TypeScript
 - 🎨 HTML5 & SCSS
 
-📫 **Get in touch:**
-- 📧 Email: barczyk.kamil@outlook.com
+**Get in touch:**
+- 📫 Email: barczyk.kamil@outlook.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kamil-barczyk-1b411a1b2/)
