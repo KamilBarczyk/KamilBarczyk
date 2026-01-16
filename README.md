@@ -1,16 +1,18 @@
 👋 Hi there, I’m Kamil Barczyk
 
-🥷🏾 I am a programmer with a Master's degree in Computer Science, specializing in **frontend development**.  
-👨🏽‍💻 Currently working full-time as an **Frontend Developer** at Eviden.  
-🌱 In my free time, I am focused on expanding and refining my portfolio.  
+**MSc in Engineering | Frontend Developer** specializing in high-performance web applications.
+
+**Currently:** Engineering automotive solutions at **Eviden** using **Angular 14+** and TypeScript.<br>
+**Focus:** Expanding my expertise in **React** and modern frontend workflows.<br>
+**Mindset:** Bridging the gap between frameworks with clean, maintainable code and an engineering approach.<br>
 
 🔧 **Core technologies:**
-- ⚡ Angular
-- 🚀 Vue
+- ⚛️ React (Proficient, active side projects)
+- 🚀 Angular (Commercial experience)
+- 🟢 Vue.js (Commercial experience)
 - 💻 JavaScript & TypeScript
-- 🎨 HTML & SCSS lover
+- 🎨 HTML5 & SCSS
 
 📫 **Get in touch:**
 - 📧 Email: barczyk.kamil@outlook.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kamil-barczyk-1b411a1b2/)
-- 🐦 [X](https://x.com/BNK_offline)  
